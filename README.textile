@@ -25,4 +25,4 @@ h4. via @wget@:
 @wget --no-check-certificate https://raw.github.com/krikus/oh-my-zsh/master/tools/install.sh -O - | sh@
 
 
-For more information visit https://github.com/robbyrussell/oh-my-zsh
+For more information visit original project: https://github.com/robbyrussell/oh-my-zsh
