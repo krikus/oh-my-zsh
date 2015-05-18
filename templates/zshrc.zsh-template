@@ -50,7 +50,7 @@ fi
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git command-not-found compleat last-working-dir npm colored-man)
+plugins=(git git-extras git-flow debian svn svn-fast-info command-not-found compleat node npm scala sudo last-working-dir colored-man)
 
 # User configuration
 
